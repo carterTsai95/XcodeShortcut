@@ -17,7 +17,7 @@ struct ShapeVisualizer: View {
                 ForEach(state.entries.indices, id: \.self) { index in
                     let entry = state.entries[index]
                     entry.symbol
-                        .foregroundStyle(.elliptical(
+                        .foregroundStyle(.ellipticalGradient(
                             gradients[entry.gradientSeed % gradients.count]))
                         .scaleEffect(entry.selected ? 4 : 1)
                         .position(
