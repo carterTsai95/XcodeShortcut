@@ -8,3 +8,10 @@
 - ⌃ = Control
 - ←→ ↑↓ = Arrow keys
 - ↩ = Enter
+
+-
+
+### Toggle Minimap
+(⌃ control) + (⇧ Shift) + (⌘ Command) + M
+
+Alternative: Menu > Minimap
