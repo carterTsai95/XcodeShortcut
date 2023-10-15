@@ -34,3 +34,8 @@
 1.  **Switch Tab**
 	- (⌃ Control) + (⇧ Shift) + [ (Switch from right to left)
 	- (⌃ Control) + (⇧ Shift) + ] (Switch from left to right)
+
+### Navigation
+
+1. **Jump to Definition**
+	- (⌘ Command) + (⌃ Control) + J or (⌘ Command) + (⌃ Control) + Click
