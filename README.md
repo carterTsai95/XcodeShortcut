@@ -17,6 +17,10 @@
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + ⏎ Return
 	- Alertnative: View > Editor > Focus/Hide Focus
 
+<p align="center">
+	<img width="600" src="Media/FocusEditor.gif" alt="Focus Editor" />
+</p>
+
 2. **Find the function caller**
 	- Prerequisite: The functon need to be highlighted.
 	- (⌃ Control) + 1 -> Move to caller tab
