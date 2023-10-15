@@ -2,14 +2,9 @@
 
 ## 1. Knowing your keyboard's symbol
 
-- ⌘ = Command
-- ⌥ = Option/Alt
-- ⇧ = Shift
-- ⌃ = Control
-- ←→ ↑↓ = Arrow keys
-- ↩ = Enter
-
--
+| ⌘ = Command | ⌥ = Option/Alt     | ⇧ = Shift |
+|-------------|--------------------|-----------|
+| ⌃ = Control | ←→ ↑↓ = Arrow keys | ↩ = Enter |
 
 ### Toggle Minimap
 - (⌃ Control) + (⇧ Shift) + (⌘ Command) + M
