@@ -22,6 +22,13 @@
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + ⏎ Return
 	- Alertnative: View > Editor > Focus/Hide Focus
 
+2. **Find the function caller**
+	- Prerequisite: The functon need to be highlighted.
+	- (⌃ Control) + 1 -> Move to caller tab
+
+3. **Show document items**
+	- (⌃ Control) + 6
+
 ### Editor's Tab
 
 1.  **Switch Tab**
