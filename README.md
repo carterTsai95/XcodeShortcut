@@ -1,17 +1,17 @@
 # Xcode Shortcut
 
-## 1. Knowing your keyboard's symbol
+# Mac keyboard symbols
 
 | ⌘ = Command | ⌥ = Option/Alt     | ⇧ = Shift |
 |-------------|--------------------|-----------|
 | ⌃ = Control | ←→ ↑↓ = Arrow keys | ↩ = Enter |
 
-### Toggle Minimap
+## Toggle Minimap
 - (⌃ Control) + (⇧ Shift) + (⌘ Command) + M
 
 - Alternative: Editor > Minimap
 
-### Editor
+## Editor
 
 1. **Focus Editor**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + ⏎ Return
@@ -24,11 +24,11 @@
 3. **Show document items**
 	- (⌃ Control) + 6
 
-### Editor's Tab
+## Editor's Tab
 
 1.  **Switch Tab**
-	- (⌃ Control) + (⇧ Shift) + [ (Switch from right to left)
-	- (⌃ Control) + (⇧ Shift) + ] (Switch from left to right)
+	- (⌘ Command) + (⇧ Shift) + [ (Switch from right to left)
+	- (⌘ Command) + (⇧ Shift) + ] (Switch from left to right)
 
 2. **Open New Editor on the right**
 	- (⌘ Command) + (⌃ Control) + T
@@ -37,14 +37,18 @@
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + W
 
 
-### Code Editing
+## Code Editing
 1. **Code Completion**
 	- (⌃ Control) + Space
 
 2. **Re-indent**
 	- (⌃ Control) + I
 
-### Navigation
+3. **Comment the code**
+	- (⌘ Command) + /
+
+
+## Navigation
 
 1. **Jump to Definition**
 	- (⌘ Command) + (⌃ Control) + J or (⌘ Command)
@@ -55,3 +59,9 @@
 
 3. **Find Select Symbol in Project**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + F
+
+4. **Open Quickly**
+	- (⌘ Command) + (⇧ Shift) + O
+
+5. **Highlight File in Project Navigator**
+	- (⌘ Command) + (⇧ Shift) + J
