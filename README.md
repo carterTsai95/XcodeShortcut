@@ -35,6 +35,11 @@
 	- (⌃ Control) + (⇧ Shift) + [ (Switch from right to left)
 	- (⌃ Control) + (⇧ Shift) + ] (Switch from left to right)
 
+2. **Open New Editor on the right**
+	- (⌘ Command) + (⌃ Control) + T
+
+
+
 ### Code Editing
 1. **Code Completion**
 	- (⌃ Control) + Space
