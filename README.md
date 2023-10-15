@@ -35,6 +35,10 @@
 	- (⌃ Control) + (⇧ Shift) + [ (Switch from right to left)
 	- (⌃ Control) + (⇧ Shift) + ] (Switch from left to right)
 
+### Code Editing
+1. Code Completion
+	- (⌃ Control) + Space
+
 ### Navigation
 
 1. **Jump to Definition**
@@ -43,3 +47,6 @@
 
 2. **Find Call Hierarchy**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
+
+3. **Find Select Symbol in Project**
+	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + F
