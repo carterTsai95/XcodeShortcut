@@ -36,8 +36,11 @@
 	- (⌃ Control) + (⇧ Shift) + ] (Switch from left to right)
 
 ### Code Editing
-1. Code Completion
+1. **Code Completion**
 	- (⌃ Control) + Space
+2. **Re-indent**
+	- (⌃ Control) + I
+3. 
 
 ### Navigation
 
