@@ -38,14 +38,16 @@
 2. **Open New Editor on the right**
 	- (⌘ Command) + (⌃ Control) + T
 
+3. **Close cuerrent editor**
+	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + W
 
 
 ### Code Editing
 1. **Code Completion**
 	- (⌃ Control) + Space
+
 2. **Re-indent**
 	- (⌃ Control) + I
-3. 
 
 ### Navigation
 
