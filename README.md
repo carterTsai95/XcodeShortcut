@@ -12,7 +12,7 @@
 -
 
 ### Toggle Minimap
-- (⌃ control) + (⇧ Shift) + (⌘ Command) + M
+- (⌃ Control) + (⇧ Shift) + (⌘ Command) + M
 
 - Alternative: Editor > Minimap
 
@@ -21,3 +21,9 @@
 1. **Focus Editor**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + ⏎ Return
 	- Alertnative: View > Editor > Focus/Hide Focus
+
+### Editor's Tab
+
+1.  **Switch Tab**
+	- (⌃ Control) + (⇧ Shift) + [ (Switch from right to left)
+	- (⌃ Control) + (⇧ Shift) + ] (Switch from left to right)
