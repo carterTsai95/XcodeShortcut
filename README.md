@@ -38,4 +38,8 @@
 ### Navigation
 
 1. **Jump to Definition**
-	- (⌘ Command) + (⌃ Control) + J or (⌘ Command) + (⌃ Control) + Click
+	- (⌘ Command) + (⌃ Control) + J or (⌘ Command)
+	- or  (⌃ Control) + Click
+
+2. **Find Call Hierarchy**
+	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
