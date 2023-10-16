@@ -8,8 +8,13 @@
 
 ## Toggle Minimap
 - (⌃ Control) + (⇧ Shift) + (⌘ Command) + M
-
 - Alternative: Editor > Minimap
+
+
+<p align="center">
+	<img width="600" src="Media/MiniMap.gif" alt="Mini Map" />
+</p>
+
 
 ## Editor
 
@@ -34,8 +39,17 @@
 	- (⌘ Command) + (⇧ Shift) + [ (Switch from right to left)
 	- (⌘ Command) + (⇧ Shift) + ] (Switch from left to right)
 
+<p align="center">
+	<img width="600" src="Media/SwitchTab.gif" alt="SwitchTab.gif" />
+</p>
+
 2. **Open New Editor on the right**
 	- (⌘ Command) + (⌃ Control) + T
+
+<p align="center">
+	<img width="600" src="Media/OpenEditorOnRight.gif" alt="Open New Editor on the right" />
+</p>
+
 
 3. **Close cuerrent editor**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + W
@@ -51,6 +65,9 @@
 3. **Comment the code**
 	- (⌘ Command) + /
 
+<p align="center">
+	<img width="600" src="Media/CommentCode.gif" alt="Comment the code" />
+</p>
 
 ## Navigation
 
@@ -69,3 +86,7 @@
 
 5. **Highlight File in Project Navigator**
 	- (⌘ Command) + (⇧ Shift) + J
+
+<p align="center">
+	<img width="600" src="Media/HighlightFile.gif" alt="HighlightFile" />
+</p>
