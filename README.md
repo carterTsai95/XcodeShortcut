@@ -63,6 +63,8 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 1. **Code Completion**
 	- (⌃ Control) + Space
 
+One of my favorite shortcut while exploring the new field of the codebase. "Show Quick Help" opens a pop-up window displaying quick documentation and information about that specific API or code symbol. This is helpful for exploring the details of APIs, functions, and classes without having to navigate away from current tab.
+
 2. **Re-indent**
 	- (⌃ Control) + I
 
