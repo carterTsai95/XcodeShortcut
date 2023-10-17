@@ -32,6 +32,8 @@ Juggling multiple editors is a common challenge. While sometime I will have mult
 	- Prerequisite: The functon need to be highlighted.
 	- (⌃ Control) + 1 -> Move to caller tab
 
+I often using this shortcut while knee-deep in a gaint codebase for some complicate function or busniness logic. Instead of manually combing through the project to discover its various callers, with a this shortcut, I can seamlessly navigate to the caller tab. And gain a deeper understanding of the project's architecture.
+
 3. **Show document items**
 	- (⌃ Control) + 6
 
