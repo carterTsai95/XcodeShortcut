@@ -22,6 +22,8 @@
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + ⏎ Return
 	- Alertnative: View > Editor > Focus/Hide Focus
 
+Juggling multiple editors is a common challenge. While sometime I will have multiple editors open for reviewing, when I need to focus on one specific editor but I also don't want to close others. This shortcut becomes really handy. Ensuring that the editor you need is always at the forefront.
+
 <p align="center">
 	<img width="600" src="Media/FocusEditor.gif" alt="Focus Editor" />
 </p>
