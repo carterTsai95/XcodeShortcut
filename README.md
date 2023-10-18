@@ -55,7 +55,7 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 </p>
 
 
-3. **Close cuerrent editor**
+3. **Close current editor**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + W
 
 
