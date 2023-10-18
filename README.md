@@ -58,6 +58,11 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 3. **Close current editor**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + W
 
+This shortcut will close the focused Editor.
+
+<p align="center">
+	<img width="600" src="Media/CloseCurrentEditor.gif" alt="Close the current Editor" />
+</p>
 
 ## Code Editing
 1. **Code Completion**
