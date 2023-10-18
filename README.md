@@ -83,7 +83,7 @@ This action adds or removes comment markers, making it easy to annotate your cod
 	- (⌘ Command) + (⌃ Control) + J or (⌘ Command)
 	- or  (⌃ Control) + Click
 
-With this shortcut developer can navigate through the 
+With this shortcut developer can navigate to the definition of a symbol, function or a class.
 
 2. **Find Call Hierarchy**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
@@ -93,6 +93,10 @@ With this shortcut developer can navigate through the
 
 4. **Open Quickly**
 	- (⌘ Command) + (⇧ Shift) + O
+
+This oftenly use when developer have the file that already in mind. By using this shortcut, it prevent developer navigate through the whole heirachy in the project folder.
+
+Sometime it also use while code reviewing, other developer might have more knowledge on the feature that is worked on. This shortcut could help developer sommon the file open on the editor with the ease.
 
 5. **Highlight File in Project Navigator**
 	- (⌘ Command) + (⇧ Shift) + J
