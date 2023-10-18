@@ -70,6 +70,11 @@ This shortcut will close the focused Editor.
 
 One of my favorite shortcut while exploring the new field of the codebase. "Show Quick Help" opens a pop-up window displaying quick documentation and information about that specific API or code symbol. This is helpful for exploring the details of APIs, functions, and classes without having to navigate away from current tab.
 
+<p align="center">
+	<img width="600" src="Media/CodeCompletion.gif" alt="Code Completion" />
+</p>
+
+
 2. **Re-indent**
 	- (⌃ Control) + I
 
