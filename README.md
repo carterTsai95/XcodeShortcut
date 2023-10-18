@@ -71,6 +71,8 @@ One of my favorite shortcut while exploring the new field of the codebase. "Show
 3. **Comment the code**
 	- (⌘ Command) + /
 
+This action adds or removes comment markers, making it easy to annotate your code for clarity or temporarily disable sections during development.
+
 <p align="center">
 	<img width="600" src="Media/CommentCode.gif" alt="Comment the code" />
 </p>
@@ -80,6 +82,8 @@ One of my favorite shortcut while exploring the new field of the codebase. "Show
 1. **Jump to Definition**
 	- (⌘ Command) + (⌃ Control) + J or (⌘ Command)
 	- or  (⌃ Control) + Click
+
+With this shortcut developer can navigate through the 
 
 2. **Find Call Hierarchy**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
