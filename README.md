@@ -43,6 +43,8 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 	- (⌘ Command) + (⇧ Shift) + [ (Switch from right to left)
 	- (⌘ Command) + (⇧ Shift) + ] (Switch from left to right)
 
+If there are multiple tabs in one editor and we want to navigate through the neighbor's tab quickly. This shortcut is the one you are looking for.
+
 <p align="center">
 	<img width="600" src="Media/SwitchTab.gif" alt="SwitchTab.gif" />
 </p>
