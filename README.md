@@ -50,6 +50,8 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 2. **Open New Editor on the right**
 	- (⌘ Command) + (⌃ Control) + T
 
+Whenever we need to add the extra editor, using this shortcut it help us directly open current seletected file as the new editor and append to the right side.
+
 <p align="center">
 	<img width="600" src="Media/OpenEditorOnRight.gif" alt="Open New Editor on the right" />
 </p>
@@ -93,7 +95,11 @@ This action adds or removes comment markers, making it easy to annotate your cod
 	- (⌘ Command) + (⌃ Control) + J or (⌘ Command)
 	- or  (⌃ Control) + Click
 
-With this shortcut developer can navigate to the definition of a symbol, function or a class.
+With this shortcut it can navigate to the definition of a symbol, function or a class. It is often useful when we need to check where is this symbol, function or class is declared.
+
+<p align="center">
+	<img width="600" src="Media/JumpToDefinition.gif" alt="Jump to definition" />
+</p>
 
 2. **Find Call Hierarchy**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
@@ -114,6 +120,8 @@ Sometime it also use while code reviewing, other developer might have more knowl
 
 5. **Highlight File in Project Navigator**
 	- (⌘ Command) + (⇧ Shift) + J
+
+When the project has the thousand files, sometimes is hard to find the specific file in the folder. This shortcut is come to rescue for directly highlight the file and navigate deep down to the folder.
 
 <p align="center">
 	<img width="600" src="Media/HighlightFile.gif" alt="HighlightFile" />
