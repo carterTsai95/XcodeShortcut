@@ -1,5 +1,14 @@
 # Xcode Shortcut
 
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#toggle-minimap">Toggle Minimap</a>
+    </li>
+    <li><a href="#editor">Editor</a></li>
+  </ol>
+</details>
+
 # Mac keyboard symbols
 
 | ⌘ = Command | ⌥ = Option/Alt     | ⇧ = Shift |
