@@ -115,6 +115,14 @@ With this shortcut it can navigate to the definition of a symbol, function or a 
 3. **Find Select Symbol in Project**
 	- (⌘ Command) + (⌃ Control) + (⇧ Shift) + F
 
+Normally we will using the (⌘ Command) + F to find the match String in the project. But this won't narrow down to the specific property that we are actually looking for since there might have the chance we have same property called "name".
+
+With this shortcut it will only list the highlighted propery as the result which is quite helpful if we are searching for some properties/function might have same name.
+
+<p align="center">
+	<img width="600" src="Media/FindSelectedSymbol.gif" alt="Find Selected Symbol" />
+</p>
+
 4. **Open Quickly**
 	- (⌘ Command) + (⇧ Shift) + O
 
