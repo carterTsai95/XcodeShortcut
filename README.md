@@ -37,6 +37,12 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 3. **Show document items**
 	- (⌃ Control) + 6
 
+This shortcut comes handy once we need to check all the function, variable, class or extenion etc... in the file. This would open up the tab that help visualize the those in the current file.
+
+<p align="center">
+	<img width="600" src="Media/ShowDocumentItems.gif" alt="Show Document Items" />
+</p>
+
 ## Editor's Tab
 
 1.  **Switch Tab**
