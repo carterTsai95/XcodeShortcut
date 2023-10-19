@@ -8,10 +8,29 @@
     <li><a href="#editor">Editor</a></li>
       <ul>
         <li><a href="#focus-editor">Focus Editor</a></li>
+        <li><a href="#find-the-function-caller">Find the function caller</a></li>
+        <li><a href="#show-document-items">Show document items</a></li>
       </ul>
     <li><a href="#editors-tab">Editor's tab</a></li>
+      <ul>
+        <li><a href="#switch-tab">Switch Tab</a></li>
+        <li><a href="#open-new-editor-on-the-right">Open New Editor on the right</a></li>
+        <li><a href="#close-current-editor">Close current editor</a></li>
+      </ul>
     <li><a href="#code-editing">Code Editing</a></li>
+      <ul>
+        <li><a href="#code-completion">Code Completion</a></li>
+        <li><a href="#re-indent">Re-indent</a></li>
+        <li><a href="#comment-the-code">Comment the code</a></li>
+      </ul>
     <li><a href="#navigation">Navigation</a></li>
+      <ul>
+        <li><a href="#jump-to-definition">Jump to Definition</a></li>
+        <li><a href="#find-call-hierarchy">Find Call Hierarchy</a></li>
+        <li><a href="#find-select-symbol-in-project">Find Select Symbol in Project</a></li>
+        <li><a href="#open-quickly">Open Quickly</a></li>
+        <li><a href="#highlight-file-in-project-navigator">Highlight File in Project Navigator</a></li>
+      </ul>
   </ol>
 </details>
 
@@ -34,7 +53,7 @@
 
 ## Editor
 
-###Focus Editor
+### Focus Editor
 
 - (⌘ Command) + (⌃ Control) + (⇧ Shift) + ⏎ Return
 - Alertnative: View > Editor > Focus/Hide Focus
@@ -47,7 +66,7 @@ Juggling multiple editors is a common challenge. While sometime I will have mult
 
 ------
 
-###Find the function caller
+### Find the function caller
 
 - Prerequisite: The functon need to be highlighted.
 - (⌃ Control) + 1 -> Move to caller tab
@@ -60,7 +79,7 @@ I often using this shortcut while knee-deep in a gaint codebase for some complic
 
 ------
 
-###Show document items
+### Show document items
 
 - (⌃ Control) + 6
 
@@ -74,7 +93,7 @@ This shortcut comes handy once we need to check all the function, variable, clas
 
 ## Editor's Tab
 
-###Switch Tab
+### Switch Tab
 
 - (⌘ Command) + (⇧ Shift) + [ (Switch from right to left)
 - (⌘ Command) + (⇧ Shift) + ] (Switch from left to right)
@@ -87,7 +106,7 @@ If there are multiple tabs in one editor and we want to navigate through the nei
 
 ------
 
-###Open New Editor on the right
+### Open New Editor on the right
 
 - (⌘ Command) + (⌃ Control) + T
 
@@ -99,7 +118,7 @@ Whenever we need to add the extra editor, using this shortcut it help us directl
 
 ------
 
-###Close current editor
+### Close current editor
 
 - (⌘ Command) + (⌃ Control) + (⇧ Shift) + W
 
@@ -111,7 +130,7 @@ This shortcut will close the focused Editor.
 
 ## Code Editing
 
-###Code Completion
+### Code Completion
 
 - (⌃ Control) + Space
 
@@ -123,7 +142,7 @@ One of my favorite shortcut while exploring the new field of the codebase. "Show
 
 ------
 
-###Re-indent
+### Re-indent
 
 - (⌃ Control) + I
 
@@ -135,7 +154,7 @@ This helps to re-indent the selected area's indent.
 
 ------
 
-###Comment the code
+### Comment the code
 
 - (⌘ Command) + /
 
@@ -149,7 +168,7 @@ This action adds or removes comment markers, making it easy to annotate your cod
 
 ## Navigation
 
-###Jump to Definition
+### Jump to Definition
 
 - (⌘ Command) + (⌃ Control) + J or (⌘ Command)
 - or  (⌃ Control) + Click
@@ -162,7 +181,7 @@ With this shortcut it can navigate to the definition of a symbol, function or a 
 
 ------
 
-###Find Call Hierarchy
+### Find Call Hierarchy
 
 - (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
 
@@ -174,7 +193,7 @@ If the function/property that we know is deep nested inside other's propery. Fin
 
 ------
 
-###Find Select Symbol in Project
+### Find Select Symbol in Project
 
 - (⌘ Command) + (⌃ Control) + (⇧ Shift) + F
 
@@ -188,7 +207,7 @@ With this shortcut it will only list the highlighted propery as the result which
 
 ------
 
-###Open Quickly
+### Open Quickly
 
 - (⌘ Command) + (⇧ Shift) + O
 
@@ -202,7 +221,7 @@ Sometime it also use while code reviewing, other developer might have more knowl
 
 ------
 
-###Highlight File in Project Navigator
+### Highlight File in Project Navigator
 
 - (⌘ Command) + (⇧ Shift) + J
 
