@@ -108,6 +108,10 @@ This oftenly use when developer have the file that already in mind. By using thi
 
 Sometime it also use while code reviewing, other developer might have more knowledge on the feature that is worked on. This shortcut could help developer sommon the file open on the editor with the ease.
 
+<p align="center">
+	<img width="600" src="Media/OpenQuickly.gif" alt="Open Quickly" />
+</p>
+
 5. **Highlight File in Project Navigator**
 	- (⌘ Command) + (⇧ Shift) + J
 
