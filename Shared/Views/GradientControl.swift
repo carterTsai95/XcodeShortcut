@@ -75,7 +75,7 @@ struct GradientControl: View {
                 .scaleEffect(selectedStopID == stop.id ? 1.5 : 1)
                 .animation(.default, value: selectedStopID == stop.id)
                 .gesture(dragGesture)
-                .gesture(tapGesture)
+.gesture(tapGesture)
 #if os(macOS)
                 .contextMenu {
                     Button("Delete", role: .destructive) {

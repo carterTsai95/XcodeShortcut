@@ -39,6 +39,10 @@ Juggling multiple editors is a common challenge. While sometime I will have mult
 
 I often using this shortcut while knee-deep in a gaint codebase for some complicate function or busniness logic. Instead of manually combing through the project to discover its various callers, with a this shortcut, I can seamlessly navigate to the caller tab. And gain a deeper understanding of the project's architecture.
 
+<p align="center">
+	<img width="600" src="Media/FindTheFunctionCaller.gif" alt="FindTheFunctionCaller" />
+</p>
+
 ------
 
 **Show document items**
@@ -108,6 +112,12 @@ One of my favorite shortcut while exploring the new field of the codebase. "Show
 
 - (⌃ Control) + I
 
+This helps to re-indent the selected area's indent.
+
+<p align="center">
+	<img width="600" src="Media/ReIndent.gif" alt="ReIndent" />
+</p>
+
 ------
 
 **Comment the code**
@@ -140,6 +150,12 @@ With this shortcut it can navigate to the definition of a symbol, function or a 
 **Find Call Hierarchy**
 
 - (⌘ Command) + (⌃ Control) + (⇧ Shift) + H
+
+If the function/property that we know is deep nested inside other's propery. Find call Hierarchy help us to visualize the hierarchy of the call.
+
+<p align="center">
+	<img width="600" src="Media/FindCallHierarchy.gif" alt="FindCallHierarchy" />
+</p>
 
 ------
 
