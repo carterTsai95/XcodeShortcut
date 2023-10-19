@@ -6,6 +6,10 @@
       <a href="#toggle-minimap">Toggle Minimap</a>
     </li>
     <li><a href="#editor">Editor</a></li>
+    <li><a href="#editor's-tab">Editor's tab</a></li>
+    <li><a href="#code-editing">Code Editing</a></li>
+    <li><a href="#navigation">Navigation</a></li>
+    <li><a href="#navigation">Navigation</a></li>
   </ol>
 </details>
 
