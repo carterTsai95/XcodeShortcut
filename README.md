@@ -172,6 +172,7 @@ This action adds or removes comment markers, making it easy to annotate your cod
 
 - (⌘ Command) + (⌃ Control) + J or (⌘ Command)
 - or  (⌃ Control) + Click
+- Note: In Xcode 15, only need (⌘ Command) + Click
 
 With this shortcut it can navigate to the definition of a symbol, function or class. It is often useful when we need to check where symbol, function or class is declared.
 
